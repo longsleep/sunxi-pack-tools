@@ -1,4 +1,4 @@
-SUBDIRS := merge_uboot update_uboot_fdt update_uboot
+SUBDIRS := merge_uboot update_uboot_fdt update_uboot script
 
 all: $(SUBDIRS)
 
